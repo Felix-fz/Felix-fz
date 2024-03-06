@@ -5,7 +5,7 @@
 - 🔭 CV/LLVE/oneline-VSR
 - 🌱 UESTC
 - 📫 How to reach me: fzf@std.uestc.edu.cn (in common use)
-- ⚡ welcome to my ⭐[Personal Homepage]()⭐
+- ⚡ Welcome to my ⭐[Personal Homepage]()⭐
 - 😄 Persistence is the first step to success！！ Don't be troubled or upset~~
 
 
