@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+
+![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix-fz&show_icons=true&theme=tokyonight)
+![Visitor Count](https://profile-counter.glitch.me/Felix-fz/count.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-fz&layout=compact&theme=tokyonight)
+
+
 <!--
 **Felix-fz/Felix-fz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
