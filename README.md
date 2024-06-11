@@ -1,6 +1,8 @@
 <link rel="stylesheet" type="text/css" href="./beautiful.css">
 
-### _Hi there 👋, I'm Felix.✨✨_
+<!--## _Hi👋, I'm Felix.✨✨_ -->
+
+<h2 align="center"> <br> <i> Hi👋, I'm Felix.✨✨ </i> <br/> </h2> 
 
 - 🔭 AD/CV/LLVE/FPGA
 - 🌱 UESTC
@@ -16,9 +18,22 @@
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Felix-fz/count.svg)] visitor, Thank You!🎉🎉
 
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-fz&layout=compact" height=145/></span>&nbsp;&nbsp;<span><img src="https://github-readme-stats.vercel.app/api?username=Felix-fz&count_private=true&show_icons=true" height=145/></span>
+<span>
+  <img  src="https://github-readme-stats.vercel.app/api?username=Felix-fz&count_private=true&show_icons=true&include_all_commits=false" height="160" />
+</span>&nbsp;&nbsp;
+<span>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-fz&layout=compact" height="160">
+</span>
+<!-- <span>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Felix-fz&hide_border=true" height="160" />
+</span> -->
 
-
+<!--
+<p align="center">
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Felix-fz&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Felix-fz&hide_border=true" />
+</p>
+-->
 <!--
 ![Felix-fz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix-fz&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-fz&layout=compact)
