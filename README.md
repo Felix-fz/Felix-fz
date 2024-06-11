@@ -2,7 +2,7 @@
 
 ### _Hi there 👋, I'm Felix.✨✨_
 
-- 🔭 CV/LLVE/oneline-VSR
+- 🔭 AD/CV/LLVE/FPGA
 - 🌱 UESTC
 - 📫 How to reach me: fzf@std.uestc.edu.cn (in common use)
 - ⚡ Welcome to my ⭐[Personal Homepage]()⭐
