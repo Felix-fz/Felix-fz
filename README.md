@@ -7,7 +7,7 @@
 - 🔭 AGI/CV/AD/FPGA
 - 🌱 UESTC
 - 📫 How to reach me: fzf@std.uestc.edu.cn (in common use)
-- ⚡ Welcome to my ⭐[Personal Homepage]()⭐
+- ⚡ Welcome to my ⭐⭐
 - 😄 Persistence is the first step to success！！ 
 
 
