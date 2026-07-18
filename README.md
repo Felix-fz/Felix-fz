@@ -4,7 +4,7 @@
 
 <h2 align="center"> <br> <i> Hi👋, I'm Felix.✨✨ </i> <br/> </h2> 
 
-- 🔭 AD/CV/LLVE/FPGA
+- 🔭 AGI/CV/AD/FPGA
 - 🌱 UESTC
 - 📫 How to reach me: fzf@std.uestc.edu.cn (in common use)
 - ⚡ Welcome to my ⭐[Personal Homepage]()⭐
